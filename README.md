@@ -29,4 +29,4 @@ A collection of Machine Learning projects demonstrating Supervised and Unsupervi
 
 ## Tech Stack
 * **Languages:** Python 3.x
-* **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy
+* **Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
